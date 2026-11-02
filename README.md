@@ -6,6 +6,8 @@
 - 🤖 **2 years** of AI-driven engineering: I design, build, test and review with AI, and build LLM features into products
 - 🧩 Beyond the frontend: Node.js APIs, validation, rate limiting, tests, CI pipelines and deploys
 
+> Most of my work lives in private company repos: **1,800+ contributions since 2023, 246 merged PRs and 612 code reviews**.
+
 #### Featured project
 
 **[PayPilot](https://github.com/GustavoEstay/PayPilot)**: a dashboard with an AI copilot that analyzes data, drives the UI through typed tool calls and asks a human before any irreversible action. Next.js, Vercel AI SDK, Gemini, Zustand, TanStack Query, Vitest, Playwright. [Live demo →](https://paypilot-olive.vercel.app)
