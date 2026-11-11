@@ -8,13 +8,15 @@
 
 > Most of my work lives in private company repos: **1,800+ contributions since 2023, 246 merged PRs and 612 code reviews**.
 
-#### Featured project
+#### Featured projects
 
 **[PayPilot](https://github.com/GustavoEstay/PayPilot)**: a dashboard with an AI copilot that analyzes data, drives the UI through typed tool calls and asks a human before any irreversible action. Next.js, Vercel AI SDK, Gemini, Zustand, TanStack Query, Vitest, Playwright. [Live demo →](https://paypilot-olive.vercel.app)
 
+**[OrganizadApp](https://github.com/GustavoEstay/OrganizadApp)**: a Phantom-style Solana wallet on devnet with an AI copilot that explains every transaction in plain language. Next.js, Solana web3.js, Wallet Adapter, TanStack Query, Vercel AI SDK, Playwright. [Live demo →](https://organizadapp.vercel.app)
+
 #### Stack
 
-`TypeScript` `React` `Next.js` `Node.js` `LLMs & tool calling` `Vercel AI SDK` `Gemini` `Tailwind CSS` `Zustand` `TanStack Query` `Zod` `Vitest` `Playwright` `Storybook` `GitHub Actions`
+`TypeScript` `React` `Next.js` `Node.js` `LLMs & tool calling` `Vercel AI SDK` `Gemini` `Tailwind CSS` `Zustand` `TanStack Query` `Zod` `Vitest` `Playwright` `Storybook` `GitHub Actions` `Solana web3.js`
 
 #### Find me
 
